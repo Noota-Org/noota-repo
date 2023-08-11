@@ -107,7 +107,7 @@ function each(coll, f) {
           } 
     } 
 }
-// var objkeys={ audioC: "KeyC"}
+
 // var arrKeyss=['KeyC','KeyA','KeyD','KeyE','KeyF','KeyG','KeyH','KeyJ','KeyK','KeyL','KeyO','KeyP','KeyS','KeyT','KeyU','KeyW','KeyY']
 // var audioss= ['audioC','audioA','audioD','audioE','audioF','audioG','audioH','audioJ','audioK','audioL','audioO','audioP','audioS','audioT','audioU','audioW','audioY']
 // each(arrKeyss,function(key,i){
